@@ -1,0 +1,15 @@
+<svg width="64.000000" height="64.000000" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_197">
+			<rect id="fi-sr-checkbox" rx="0.000000" width="27.000000" height="27.000000" transform="translate(18.500000 18.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 3" cx="32.000000" cy="32.000000" r="32.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<rect id="fi-sr-checkbox" rx="0.000000" width="27.000000" height="27.000000" transform="translate(18.500000 18.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip7_197)">
+		<path id="Vector" d="M40.16 18L23.83 18C20.61 18 18 20.61 18 23.83L18 40.16C18 43.38 20.61 45.99 23.83 46L40.16 46C43.38 45.99 45.99 43.38 46 40.16L46 23.83C45.99 20.61 43.38 18 40.16 18ZM41.33 27.42L30.53 38.22C29.62 39.13 28.14 39.13 27.23 38.22C27.23 38.22 27.23 38.22 27.23 38.22L22.66 33.65C22.21 33.19 22.21 32.45 22.66 32C23.12 31.54 23.86 31.54 24.31 32L28.88 36.56L39.68 25.77C40.14 25.31 40.88 25.31 41.33 25.77C41.79 26.23 41.78 26.97 41.33 27.42Z" fill="#3752FD" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
