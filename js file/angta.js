@@ -16,7 +16,7 @@ document.querySelector('.btn-fixissue').addEventListener('click', function () {
     const newHistory = document.querySelector('.new-history');
     const newDiv = document.createElement('div');
     newDiv.innerHTML =
-    `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
+        `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
     <p class="text-sm">You have Complete The Task: ${mobileText} ${getFormattedTime()}</p> 
     </div>`;
     newHistory.appendChild(newDiv);
@@ -38,8 +38,8 @@ document.querySelector('.btn-darkmode').addEventListener('click', function () {
     const darkText = getTextById('dark-text');
     const newHistory = document.querySelector('.new-history');
     const newDiv = document.createElement('div');
-    newDiv.innerHTML = 
-    `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
+    newDiv.innerHTML =
+        `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
     <p class="text-sm">You have Complete The Task: ${darkText} ${getFormattedTime()}</p> 
     </div>`;
     newHistory.appendChild(newDiv);
@@ -62,7 +62,7 @@ document.querySelector('.btn-homepage').addEventListener('click', function () {
     const newHistory = document.querySelector('.new-history');
     const newDiv = document.createElement('div');
     newDiv.innerHTML =
-    `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
+        `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
     <p class="text-sm">You have Complete The Task: ${optimizeText} ${getFormattedTime()}</p> 
     </div>`;
     newHistory.appendChild(newDiv);
@@ -85,7 +85,7 @@ document.querySelector('.btn-reaction').addEventListener('click', function () {
     const newHistory = document.querySelector('.new-history');
     const newDiv = document.createElement('div');
     newDiv.innerHTML =
-    `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
+        `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
     <p class="text-sm">You have Complete The Task: ${emojiText} ${getFormattedTime()}</p> 
     </div>`;
     newHistory.appendChild(newDiv);
@@ -107,7 +107,7 @@ document.querySelector('.btn-openapi').addEventListener('click', function () {
     const newHistory = document.querySelector('.new-history');
     const newDiv = document.createElement('div');
     newDiv.innerHTML =
-    `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
+        `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
     <p class="text-sm">You have Complete The Task: ${aiText} ${getFormattedTime()}</p> 
     </div>`;
     newHistory.appendChild(newDiv);
@@ -129,7 +129,7 @@ document.querySelector('.btn-jobseeking').addEventListener('click', function () 
     const newHistory = document.querySelector('.new-history');
     const newDiv = document.createElement('div');
     newDiv.innerHTML =
-    `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
+        `<div class="bg-[#3752FD33] px-2 py-3 rounded-md">
     <p class="text-sm">You have Complete The Task: ${jobText} ${getFormattedTime()}</p> 
     </div>`;
     newHistory.appendChild(newDiv);
