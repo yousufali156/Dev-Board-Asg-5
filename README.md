@@ -1,12 +1,12 @@
 <h1 align="center">🧠 DevBoard - Task Management Dashboard</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yousufali156/Dev-Board-Asg-5/main/assets/preview.png" alt="DevBoard Screenshot" width="80%"/>
+  <img src="https://dev-board-asg-5.vercel.app/"/>
 </p>
 
 ## 🚀 Live Demo
 
-🌐 **[Visit DevBoard Live](https://yousufali156.github.io/Dev-Board-Asg-5/)**
+🌐 **[Visit DevBoard Live](https://dev-board-asg-5.vercel.app/)**
 
 ---
 
@@ -37,7 +37,7 @@ This project showcases user-focused UI/UX practices using modern **HTML, CSS, an
 
 ## 📸 Preview
 
-<img src="https://raw.githubusercontent.com/yousufali156/Dev-Board-Asg-5/main/assets/preview.png" alt="Preview" width="100%" />
+<img src="https://dev-board-asg-5.vercel.app/" />
 
 ---
 
