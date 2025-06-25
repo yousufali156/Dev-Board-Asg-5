@@ -1,18 +1,86 @@
-# Dev-Board-Asg-5
+<h1 align="center">🧠 DevBoard - Task Management Dashboard</h1>
 
-📅 Deadline For 60 marks: 2nd March , 2025 ( 11:59 pm ⏱️)
-📅 Deadline For 50 marks: 3rd March , 2025 ( 11:59 pm ⏱️)
-📅 Deadline For 30 marks: Any time after 3rd March 2025.
-🏆 Requirements
-Follow the given video strictly to meet all the requirements and Challenges.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yousufali156/Dev-Board-Asg-5/main/assets/preview.png" alt="DevBoard Screenshot" width="80%"/>
+</p>
 
-Required Question to Answer at Blog.html
-Question-1: What are the different ways to select an element in the DOM?
+## 🚀 Live Demo
 
-Question-2: What is the difference between innerHTML, innerText, and textContent?
+🌐 **[Visit DevBoard Live](https://yousufali156.github.io/Dev-Board-Asg-5/)**
 
-Question-3: What is event delegation in the DOM?
+---
 
-Question-4: What is event bubbling in the DOM?
+## 📌 Project Description
 
-Question-5: How do you create, add, and remove elements using JavaScript?
+**DevBoard** is a clean and responsive task management dashboard designed to help developers track and manage their assigned tasks efficiently. It offers:
+
+- 🎯 Task assignment tracking
+- 📆 Task deadlines
+- ✅ Completion status
+- 📝 Activity log
+- 🌈 Dynamic theme indicator (top-right)
+
+This project showcases user-focused UI/UX practices using modern **HTML, CSS, and JavaScript**.
+
+---
+
+## 🖥️ Features
+
+- ✔️ Task Cards with Title, Description, and Deadline
+- 🟦 Task Status Badges (Completed / Incomplete)
+- 🕘 Activity Log with timestamps
+- 🎨 Intuitive and Responsive Design
+- 💾 Local storage support for saving history
+- 🧠 Smooth user experience
+
+---
+
+## 📸 Preview
+
+<img src="https://raw.githubusercontent.com/yousufali156/Dev-Board-Asg-5/main/assets/preview.png" alt="Preview" width="100%" />
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology   | Description                   |
+|--------------|-------------------------------|
+| HTML5        | Page structure and layout     |
+| CSS3         | Styling and layout            |
+| JavaScript   | Functionality and logic       |
+| LocalStorage | Save activity logs            |
+
+---
+
+## 📂 Folder Structure
+Dev-Board-Asg-5/ <br/>
+├── index.html <br/>
+├── style.css <br/>
+├── script.js <br/>
+├── assets/ <br/>
+├── preview.png
+└── tailwind.config.js <br/>
+
+
+
+---
+
+## 🙌 Acknowledgments
+
+This project was built as part of a front-end development learning task.  
+Thanks to all the design inspirations and the open-source community for ideas and motivation!
+
+---
+
+## 📫 Contact
+
+Feel free to reach out:
+
+- GitHub: [@yousufali156](https://github.com/yousufali156)
+- Portfolio: _Coming soon_
+
+---
+
+⭐ If you like this project, please consider giving it a **star** on GitHub!
+
+
